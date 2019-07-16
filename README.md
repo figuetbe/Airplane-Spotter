@@ -8,4 +8,4 @@ Ideas of project:
 -Landing time forecasting
 -...
 ## Instructions
-OpenSky Network API and installation instruction can be found on this link: https://github.com/openskynetwork/opensky-api
+OpenSky Network API and installation instructions can be found on this link: https://github.com/openskynetwork/opensky-api
