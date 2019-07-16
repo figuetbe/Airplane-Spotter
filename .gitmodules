@@ -1,0 +1,2 @@
+[submodule "opensky-api"]
+	url = https://github.com/openskynetwork/opensky-api.git
